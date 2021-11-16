@@ -1,8 +1,4 @@
 import json
-import logging
-import os
-import pickle
-import numpy as np
 import pandas as pd
 import joblib
 import azureml.automl.core
